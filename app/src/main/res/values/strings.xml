@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">WiFiSniff</string>
+    <!-- Main Activity -->
+    <string name="start_scanning">Start Scanning</string>
+    <string name="wifi_scanner">WiFi Scanner</string>
+
+    <!-- WiFi Scan Activity -->
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="list">List</string>
+    <string name="networks">Networks</string>
+    <string name="secure">Secure</string>
+    <string name="open">Open</string>
+    <string name="scanning_wifi">Scanning WiFi networks...</string>
+    <string name="processing_networks">Processing %d networks...</string>
+    <string name="found_networks">Found %d networks</string>
+
+    <!-- WiFi List Activity -->
+    <string name="wifi_networks">WiFi Networks</string>
+    <string name="showing_networks">Showing %d networks</string>
+    <string name="showing_filtered_networks">Showing %d of %d networks</string>
+    <string name="filter_by_security">Filter by security type:</string>
+    <string name="all">All</string>
+
+    <!-- Network Details -->
+    <string name="network_details">Network Details</string>
+    <string name="network_information">Network Information</string>
+    <string name="hidden_network">Hidden Network</string>
+    <string name="share_network_info">Share Network Info</string>
+    <string name="wifi_network_info">WiFi Network Information:</string>
+    <string name="share_network_subject">WiFi Network: %s</string>
+
+    <!-- Permissions & Settings -->
+    <string name="enable_location_services">Enable Location Services</string>
+    <string name="location_required_message">WiFi scanning requires location services to be enabled. Please turn on location services.</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="location_permission_message">Location permission is required for WiFi scanning functionality. This allows the app to discover nearby WiFi networks and map their locations.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="share">Share</string>
+
+    <!-- Toast Messages -->
+    <string name="please_enable_wifi">Please enable WiFi for scanning</string>
+    <string name="please_enable_wifi_first">Please enable WiFi first</string>
+    <string name="location_permission_required">Location permission is required for WiFi scanning</string>
+    <string name="enable_location_permission_settings">Please enable location permission in app settings</string>
+    <string name="location_settings_required">Location settings are required for scanning</string>
+    <string name="starting_wifi_scanner">Starting WiFi Scanner...</string>
+    <string name="wifi_scan_started">WiFi scan started</string>
+    <string name="wifi_scan_stopped">WiFi scan stopped</string>
+    <string name="scan_failed_retrying">Scan failed, retrying...</string>
+
+    <!-- Empty States -->
+    <string name="no_networks_found">No networks found.\nTry scanning for WiFi networks.</string>
+    <string name="no_networks_match_filter">No networks match the current filter.</string>
+
+    <!-- Distance & Signal -->
+    <string name="estimated_distance">~%.1f m</string>
+    <string name="signal_strength">%d dBm (%d%%)</string>
+    <string name="unknown_distance">Unknown</string>
+
+    <!-- Security Types -->
+    <string name="security_open">OPEN</string>
+    <string name="security_wep">WEP</string>
+    <string name="security_wpa">WPA</string>
+    <string name="security_wpa2">WPA2</string>
+    <string name="security_wpa3">WPA3</string>
+    <string name="security_wps">WPS</string>
+    <string name="security_unknown">UNKNOWN</string>
+
+    <!-- Map -->
+    <string name="your_location">Your Location</string>
+    <string name="my_location">My Location</string>
+</resources>

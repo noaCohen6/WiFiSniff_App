@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue2">#81D4FA</color>
+    <color name="blue1">#B3E5FC</color>
+    <color name="blue0">#E1F5FE</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <!-- WiFi App Colors -->
+
+    <color name="gray_text">#FF757575</color>
+
+    <!-- Security Colors -->
+    <color name="security_open">#FFFF4444</color>
+    <color name="security_wep">#FFFF8800</color>
+    <color name="security_wpa">#FFFFBB33</color>
+    <color name="security_wpa2">#FF00AA00</color>
+    <color name="security_wpa3">#FF0066CC</color>
+    <color name="security_wps">#FFAA00AA</color>
+    <color name="security_unknown">#FF808080</color>
+
+    <!-- Signal Strength Colors -->
+    <color name="signal_excellent">#FF4CAF50</color>
+    <color name="signal_good">#FF8BC34A</color>
+    <color name="signal_fair">#FFFFC107</color>
+    <color name="signal_weak">#FFFF9800</color>
+    <color name="signal_very_weak">#FFF44336</color>
+
+</resources>
